@@ -1,8 +1,9 @@
+// changes
+
 //Stack operations using array (using class)
 #define MAX 20
 #include<stdlib.h>
 #include<conio.h>
-
 class stack{
 
 	int data[MAX];
